@@ -1,0 +1,20 @@
+{
+  "name": "RomainSimonMe",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "/RomainSimonMe",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.3.2",
+    "vuepress": "^1.5.3"
+  }
+}
